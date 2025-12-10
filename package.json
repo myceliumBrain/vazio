@@ -1,0 +1,22 @@
+{
+  "name": "vazio",
+  "version": "1.0.0",
+  "description": "programa teste penis buceta de korova lll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myceliumBrain/vazio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myceliumBrain/vazio/issues"
+  },
+  "homepage": "https://github.com/myceliumBrain/vazio#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
