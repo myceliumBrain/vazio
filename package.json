@@ -4,7 +4,7 @@
   "description": "programa teste penis buceta de korova lll",
   "main": "index.js",
   "scripts": {
-    "dev": "ts src/script.ts",
+    "dev": "tsx src/script.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
